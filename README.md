@@ -68,11 +68,4 @@ This project was bootstrapped with [create-next-app](https://github.com/vercel/n
 
 We welcome contributions! To get started, follow these steps:
 
-### 🔨 Steps to Contribute
 
-1. *Fork the repository* by clicking the "Fork" button at the top-right corner of the repository page.
-
-2. *Clone your forked repository* to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/ai-powered-lms.git  
-   cd ai-powered-lms
