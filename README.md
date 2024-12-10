@@ -19,6 +19,9 @@ An intelligent, AI-driven Learning Management System (LMS) SaaS application desi
 ![Vercel](https://img.shields.io/badge/Deploy-Vercel-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+<div align="center">
+  <img height="300" src=""  />
+</div>
 ## ✨ Key Features  
 
 - *📊 AI-Driven Learning Insights*  
