@@ -66,9 +66,3 @@ This project was bootstrapped with [create-next-app](https://github.com/vercel/n
 
 - [Node.js](https://nodejs.org/en/)  
 - [PostgreSQL](https://www.postgresql.org/)  
-
-## 🤝 Contributing
-
-We welcome contributions! To get started, follow these steps:
-
-
