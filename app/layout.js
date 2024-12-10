@@ -1,21 +1,21 @@
-import localFont from "next/font/local";
 import "./globals.css";
-import { Outfit } from 'next/font/google'
-export const metadata = {
-  title: "AI LMS",
-  description: "AI LMS",
-};
+import { Outfit } from "next/font/google";
+import { ClerkProvider } from "@clerk/nextjs";
+import Provider from "./provider";
 
-const outfit = Outfit({subsets:['latin']});
+
+const outfit = Outfit({ subsets: ['latin'] });
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
-      <body
-        className={outfit.className}
-      >
-        {children}
-      </body>
-    </html>
+    <ClerkProvider>
+      <html lang="en">
+        <body className={outfit.className}>
+          <Provider>
+            {children}
+          </Provider>
+        </body>
+      </html>
+    </ClerkProvider>
   );
 }
