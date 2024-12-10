@@ -20,7 +20,7 @@ An intelligent, AI-driven Learning Management System (LMS) SaaS application desi
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 <div align="center">
-  <img height="300" src=""  />
+  <img height="300" src="https://github.com/wrk16/AI-LMS-App/blob/main/flow_LMS.png"  />
 </div>
 ## ✨ Key Features  
 
